@@ -177,7 +177,7 @@ public class main extends javax.swing.JFrame {
     private void cmdMinimizeActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_cmdMinimizeActionPerformed
         this.setState(JFrame.ICONIFIED);
     }//GEN-LAST:event_cmdMinimizeActionPerformed
-
+    
     /**
      * @param args the command line arguments
      */

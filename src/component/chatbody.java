@@ -12,7 +12,7 @@ import net.miginfocom.swing.MigLayout;
  *
  * @author LaptopcuaThanh
  */
-public class chatbody extends javax.swing.JPanel {
+public class chatbody extends javax.swing.JPanel {  // phần khung hiển thị
 
     /**
      * Creates new form chattittle
@@ -20,7 +20,7 @@ public class chatbody extends javax.swing.JPanel {
     public chatbody() {
         initComponents();
         init();
-        addItemleft("\"aloalo aloalo aloalo aloalo aloalo aloalo aloalo aloalo aloalo aloalo aloalo aloalo aloalo aloalo alo alo","Thanh");
+        addItemleft("\"aloalo aloalo aloalo aloalo aloalo aloalo aloalo aloalo aloalo aloalo aloalo aloalo aloalo aloalo alo alo đây là bản test demo thêm vào trong bài được thực hiện bởi nhóm 24","Thanh");
         addItemright("aloalo aloalo aloalo aloalo aloalo aloalo aloalo aloalo aloalo aloalo aloalo aloalo aloalo aloalo alo alo");
         addDate("11/11/2022");
         addItemright("a Text ở đây");
